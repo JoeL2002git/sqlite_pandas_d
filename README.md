@@ -1,7 +1,7 @@
 # Assignment-2-Lite-Split-
 Single-Table Patient Roster in SQLite
 
-Overview: The goal of this project is to write and run single-table select queries in DB Browswer using SQLite. 
+Overview: The goal of this project is to write and run single-table select queries in DB Browswer using SQLite by using Python packages pandas and SQLAlchemy.
 
 Steps:
 
