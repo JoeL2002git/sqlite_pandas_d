@@ -1,6 +1,22 @@
 # Assignment-2-Lite-Split-
 Single-Table Patient Roster in SQLite
 
+Overview: The goal of this project is to write and run single-table select queries in DB Browswer using SQLite. 
+
+Steps:
+
+1. Create a schema sql that outlines the database
+
+2. Write a python code that create a database name 'clinic_simple.db' using the schema sql as blueprint
+
+3. Import a csv files that fits the criteria of the schema
+
+4. Write a python code that reads the csv file and add it to the database that was created
+
+5. Open DB Broswer (SQLite) and upload 'clinic_simple.db'
+
+6. Run the queries.
+
 A- Row count
 ![A) Row count](image.png)
 
